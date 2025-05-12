@@ -1,5 +1,0 @@
-vhdl xil_defaultlib  \
-"../../../../neural_network.gen/sources_1/ip/pixel_test_5_final/pixel_test_5_final_sim_netlist.vhdl" \
-
-# Do not sort compile order
-nosort

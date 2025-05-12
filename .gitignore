@@ -1,0 +1,16 @@
+# Vivado junk
+*.jou
+*.log
+*.str
+*.xml
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/utils_1/
+*.webtalk/
+*.sdk/
+*.wcfg
+.Xil/
