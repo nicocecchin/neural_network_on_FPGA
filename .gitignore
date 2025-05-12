@@ -12,5 +12,7 @@
 *.srcs/utils_1/
 *.webtalk/
 *.sdk/
+*.gen/
 *.wcfg
 .Xil/
+roms.tcl
