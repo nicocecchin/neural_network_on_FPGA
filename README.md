@@ -12,13 +12,13 @@ The final design was deployed on a **Nexys4-DDR FPGA board**.
 
 ## Repository Contents
 
-- `src/`: VHDL/Verilog source files for the FPGA design
-- `bitstream/`: Precompiled bitstream ready for the Nexys4-DDR
-- `python_test/`: Python application to test the network, both in software and hardware using shared weights
-- `weights/`: `.coe` files containing the trained weights
-- `images/`: 200 test images used to evaluate both software and hardware implementations
-- `results.csv`: CSV log of test results for comparison
-- `mnist_interface/`: Python app for testing the network with MNIST images
+- `neural_network.srcs/`: VHDL source files for the FPGA design
+- `neural_netwok.bit`: Precompiled bitstream ready for the Nexys4-DDR
+- `combined_app.py`: Python application to test the network, both in software and hardware using shared weights
+- `mnist/`: `.coe` files containing the trained weights
+- `results_image/`: 200 test images used to evaluate both software and hardware implementations
+- `comparison_log.csv`: CSV log of test results for comparison
+- `mnist_reader/`: Python app for testing the network with MNIST images
 
 ## Notes
 
