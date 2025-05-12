@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2  -L xil_defaultlib -L secureip -L xpm --snapshot floating_point_0 xil_defaultlib.floating_point_0 -log elaborate.log

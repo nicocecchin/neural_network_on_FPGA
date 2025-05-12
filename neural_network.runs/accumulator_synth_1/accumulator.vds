@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Apr 14 06:05:57 2025
+# Process ID: 22008
+# Current directory: D:/neural_network/neural_network.runs/accumulator_synth_1
+# Command line: vivado.exe -log accumulator.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source accumulator.tcl
+# Log file: D:/neural_network/neural_network.runs/accumulator_synth_1/accumulator.vds
+# Journal file: D:/neural_network/neural_network.runs/accumulator_synth_1\vivado.jou
+# Running On: Slow-Loris, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16487 MB
+#-----------------------------------------------------------
+source accumulator.tcl -notrace
+create_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 435.371 ; gain = 167.383
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: accumulator
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry b059986060b6511b to dir: D:/neural_network/neural_network.runs/accumulator_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file d:/neural_network/neural_network.cache/ip/2023.1/b/0/b059986060b6511b/accumulator.dcp to D:/neural_network/neural_network.runs/accumulator_synth_1/accumulator.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file d:/neural_network/neural_network.cache/ip/2023.1/b/0/b059986060b6511b/accumulator_sim_netlist.v to D:/neural_network/neural_network.runs/accumulator_synth_1/accumulator_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file d:/neural_network/neural_network.cache/ip/2023.1/b/0/b059986060b6511b/accumulator_sim_netlist.vhdl to D:/neural_network/neural_network.runs/accumulator_synth_1/accumulator_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file d:/neural_network/neural_network.cache/ip/2023.1/b/0/b059986060b6511b/accumulator_stub.v to D:/neural_network/neural_network.runs/accumulator_synth_1/accumulator_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file d:/neural_network/neural_network.cache/ip/2023.1/b/0/b059986060b6511b/accumulator_stub.vhdl to D:/neural_network/neural_network.runs/accumulator_synth_1/accumulator_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP accumulator, cache-ID = b059986060b6511b.
+INFO: [Common 17-206] Exiting Vivado at Mon Apr 14 06:06:07 2025...

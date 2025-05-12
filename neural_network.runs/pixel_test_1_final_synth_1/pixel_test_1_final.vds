@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun May 11 21:03:12 2025
+# Process ID: 25660
+# Current directory: D:/neural_network/neural_network.runs/pixel_test_1_final_synth_1
+# Command line: vivado.exe -log pixel_test_1_final.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pixel_test_1_final.tcl
+# Log file: D:/neural_network/neural_network.runs/pixel_test_1_final_synth_1/pixel_test_1_final.vds
+# Journal file: D:/neural_network/neural_network.runs/pixel_test_1_final_synth_1\vivado.jou
+# Running On: Slow-Loris, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16487 MB
+#-----------------------------------------------------------
+source pixel_test_1_final.tcl -notrace
+create_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 433.355 ; gain = 161.344
+WARNING: [Coretcl 2-176] No IPs found
+ERROR: [Common 17-69] Command failed: Missing value for required argument 'ip'
+INFO: [Common 17-206] Exiting Vivado at Sun May 11 21:03:32 2025...

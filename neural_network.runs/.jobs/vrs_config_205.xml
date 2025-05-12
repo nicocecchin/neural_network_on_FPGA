@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="memory_neuron_1_48_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_48_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_47_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_47_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_46_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_46_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_45_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_45_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_44_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_44_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_43_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_43_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_42_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_42_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_41_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_41_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_40_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_40_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_39_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_39_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_38_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_38_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_37_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_37_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_36_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_36_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_35_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_35_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_34_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_34_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_33_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_33_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_32_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_32_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_31_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_31_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_30_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_30_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_29_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_29_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_28_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_28_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_27_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_27_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_26_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_26_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_25_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_25_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_24_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_24_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_23_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_23_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_22_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_22_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_21_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_21_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_20_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_20_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_19_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_19_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_18_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_18_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_17_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_17_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_16_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_16_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_15_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_15_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_14_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_14_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_13_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_13_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_12_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_12_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_11_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_11_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_10_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_10_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_9_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_9_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_8_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_8_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_7_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_7_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_6_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_6_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_5_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_5_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_4_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_4_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="memory_neuron_1_3_synth_1" LaunchDir="C:/Users/nicoc/neural_network/neural_network.runs/memory_neuron_1_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

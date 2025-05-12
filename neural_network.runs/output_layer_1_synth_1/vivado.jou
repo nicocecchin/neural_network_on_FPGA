@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Apr 14 06:09:47 2025
+# Process ID: 19576
+# Current directory: D:/neural_network/neural_network.runs/output_layer_1_synth_1
+# Command line: vivado.exe -log output_layer_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source output_layer_1.tcl
+# Log file: D:/neural_network/neural_network.runs/output_layer_1_synth_1/output_layer_1.vds
+# Journal file: D:/neural_network/neural_network.runs/output_layer_1_synth_1\vivado.jou
+# Running On: Slow-Loris, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16487 MB
+#-----------------------------------------------------------
+source output_layer_1.tcl -notrace

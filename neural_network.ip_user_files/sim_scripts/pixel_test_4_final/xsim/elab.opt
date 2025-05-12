@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2  -L xil_defaultlib -L secureip -L xpm --snapshot pixel_test_4_final xil_defaultlib.pixel_test_4_final -log elaborate.log

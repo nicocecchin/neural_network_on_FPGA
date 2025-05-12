@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="pixel_test_1_final_synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1746990183">
+  <File Type="PA-TCL" Name="pixel_test_1_final.tcl"/>
+  <File Type="REPORTS-TCL" Name="pixel_test_1_final_reports.tcl"/>
+  <File Type="RDS-RDS" Name="pixel_test_1_final.vds"/>
+  <File Type="RDS-UTIL" Name="pixel_test_1_final_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="pixel_test_1_final_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="pixel_test_1_final.dcp"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/pixel_test_1_final" RelGenDir="$PGENDIR/pixel_test_1_final">
+    <File Path="$PSRCDIR/sources_1/ip/pixel_test_1_final/pixel_test_1_final.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="pixel_test_1_final"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/pixel_test_1_final" RelGenDir="$PGENDIR/pixel_test_1_final">
+    <File Path="$PSRCDIR/sources_1/ip/pixel_test_1_final/pixel_test_1_final.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="pixel_test_1_final"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/neural_network.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2023"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

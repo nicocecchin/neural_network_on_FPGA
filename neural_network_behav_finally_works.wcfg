@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="neural_network_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="neural_network" />
+            <top_module name="types_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="36,970.550 ns"></ZoomStartTime>
+      <ZoomEndTime time="37,057.251 ns"></ZoomEndTime>
+      <Cursor1Time time="36,748.950 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="188"></NameColumnWidth>
+      <ValueColumnWidth column_width="163"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="47" />
+   <wvobject fp_name="/neural_network/clk100MHz" type="logic">
+      <obj_property name="ElementShortName">clk100MHz</obj_property>
+      <obj_property name="ObjectShortName">clk100MHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/RsTx" type="logic">
+      <obj_property name="ElementShortName">RsTx</obj_property>
+      <obj_property name="ObjectShortName">RsTx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/RsRx" type="logic">
+      <obj_property name="ElementShortName">RsRx</obj_property>
+      <obj_property name="ObjectShortName">RsRx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/seven_segments" type="array">
+      <obj_property name="ElementShortName">seven_segments[7:0]</obj_property>
+      <obj_property name="ObjectShortName">seven_segments[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/an0" type="logic">
+      <obj_property name="ElementShortName">an0</obj_property>
+      <obj_property name="ObjectShortName">an0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/address_in_1" type="array">
+      <obj_property name="ElementShortName">address_in_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">address_in_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/address_in_2" type="array">
+      <obj_property name="ElementShortName">address_in_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">address_in_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/address_1" type="array">
+      <obj_property name="ElementShortName">address_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">address_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/address_2" type="array">
+      <obj_property name="ElementShortName">address_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">address_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/pixel" type="array">
+      <obj_property name="ElementShortName">pixel[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/pixel_valid" type="logic">
+      <obj_property name="ElementShortName">pixel_valid</obj_property>
+      <obj_property name="ObjectShortName">pixel_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/write_en_mem_1" type="array">
+      <obj_property name="ElementShortName">write_en_mem_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">write_en_mem_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/mem_in_1" type="array">
+      <obj_property name="ElementShortName">mem_in_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_in_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/i_1" type="other">
+      <obj_property name="ElementShortName">i_1</obj_property>
+      <obj_property name="ObjectShortName">i_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/neuron_input_layer_1" type="array">
+      <obj_property name="ElementShortName">neuron_input_layer_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">neuron_input_layer_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/neuron_output_layer_1" type="array">
+      <obj_property name="ElementShortName">neuron_output_layer_1[0:127][31:0]</obj_property>
+      <obj_property name="ObjectShortName">neuron_output_layer_1[0:127][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/result_ready_layer1" type="logic">
+      <obj_property name="ElementShortName">result_ready_layer1</obj_property>
+      <obj_property name="ObjectShortName">result_ready_layer1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer1_en" type="logic">
+      <obj_property name="ElementShortName">layer1_en</obj_property>
+      <obj_property name="ObjectShortName">layer1_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/results_layer_1" type="array">
+      <obj_property name="ElementShortName">results_layer_1[0:127][31:0]</obj_property>
+      <obj_property name="ObjectShortName">results_layer_1[0:127][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/mem_in" type="array">
+      <obj_property name="ElementShortName">mem_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/write_en_mem_2" type="array">
+      <obj_property name="ElementShortName">write_en_mem_2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">write_en_mem_2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/i_2" type="other">
+      <obj_property name="ElementShortName">i_2</obj_property>
+      <obj_property name="ObjectShortName">i_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/neuron_input_layer_2" type="array">
+      <obj_property name="ElementShortName">neuron_input_layer_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">neuron_input_layer_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/neuron_output_layer_2" type="array">
+      <obj_property name="ElementShortName">neuron_output_layer_2[0:9][31:0]</obj_property>
+      <obj_property name="ObjectShortName">neuron_output_layer_2[0:9][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/result_ready_layer2" type="logic">
+      <obj_property name="ElementShortName">result_ready_layer2</obj_property>
+      <obj_property name="ObjectShortName">result_ready_layer2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer2_en" type="logic">
+      <obj_property name="ElementShortName">layer2_en</obj_property>
+      <obj_property name="ObjectShortName">layer2_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/results_layer_2" type="array">
+      <obj_property name="ElementShortName">results_layer_2[0:9][31:0]</obj_property>
+      <obj_property name="ObjectShortName">results_layer_2[0:9][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/compare_en" type="logic">
+      <obj_property name="ElementShortName">compare_en</obj_property>
+      <obj_property name="ObjectShortName">compare_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/compare_complete" type="logic">
+      <obj_property name="ElementShortName">compare_complete</obj_property>
+      <obj_property name="ObjectShortName">compare_complete</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/seg" type="array">
+      <obj_property name="ElementShortName">seg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/present_state" type="other">
+      <obj_property name="ElementShortName">present_state</obj_property>
+      <obj_property name="ObjectShortName">present_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/next_state" type="other">
+      <obj_property name="ElementShortName">next_state</obj_property>
+      <obj_property name="ObjectShortName">next_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/max_address_1" type="array">
+      <obj_property name="ElementShortName">max_address_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">max_address_1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/max_address_2" type="array">
+      <obj_property name="ElementShortName">max_address_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">max_address_2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/result_ready" type="logic">
+      <obj_property name="ElementShortName">result_ready</obj_property>
+      <obj_property name="ObjectShortName">result_ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/neuron_output_array" type="array">
+      <obj_property name="ElementShortName">neuron_output_array[0:127][31:0]</obj_property>
+      <obj_property name="ObjectShortName">neuron_output_array[0:127][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/neuron_en" type="logic">
+      <obj_property name="ElementShortName">neuron_en</obj_property>
+      <obj_property name="ObjectShortName">neuron_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/operation_en" type="logic">
+      <obj_property name="ElementShortName">operation_en</obj_property>
+      <obj_property name="ObjectShortName">operation_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/present_state" type="other">
+      <obj_property name="ElementShortName">present_state</obj_property>
+      <obj_property name="ObjectShortName">present_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/memory_out_array" type="array">
+      <obj_property name="ElementShortName">memory_out_array[0:127][31:0]</obj_property>
+      <obj_property name="ObjectShortName">memory_out_array[0:127][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/result_ready_small" type="array">
+      <obj_property name="ElementShortName">result_ready_small[0:31]</obj_property>
+      <obj_property name="ObjectShortName">result_ready_small[0:31]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/neuron_output_small" type="array">
+      <obj_property name="ElementShortName">neuron_output_small[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">neuron_output_small[0:31][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/memory_out_small" type="array">
+      <obj_property name="ElementShortName">memory_out_small[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">memory_out_small[0:31][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/i" type="other">
+      <obj_property name="ElementShortName">i</obj_property>
+      <obj_property name="ObjectShortName">i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/\gen_neurons(0)\/neuron_inst/mul_last" type="logic">
+      <obj_property name="ElementShortName">mul_last</obj_property>
+      <obj_property name="ObjectShortName">mul_last</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/\gen_neurons(0)\/neuron_inst/acc_last" type="logic">
+      <obj_property name="ElementShortName">acc_last</obj_property>
+      <obj_property name="ObjectShortName">acc_last</obj_property>
+   </wvobject>
+   <wvobject fp_name="/neural_network/layer_1/\gen_neurons(0)\/neuron_inst/present_state" type="other">
+      <obj_property name="ElementShortName">present_state</obj_property>
+      <obj_property name="ObjectShortName">present_state</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../neural_network.gen/sources_1/ip/compare_0/compare_0_sim_netlist.vhdl" \
+
+# Do not sort compile order
+nosort
